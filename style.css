@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: #000050;
+    text-align: center;
+}
+header {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+header ul {
+    list-style-type: none;
+}
+#logo {
+    display: block;
+}
+header nav ul li{
+    display:inline-block;
+    font-family: 'Old English Five',sans-serif;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+    color: #000080;
+}
+a:hover {
+    text-decoration: underline;
+    color:#900
+}
